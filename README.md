@@ -4,8 +4,8 @@
 **https://arclayer.co/templates/**.
 
 The files live in this repository's [release](https://github.com/arclayer-ltd/free-templates/releases/tag/v2026.11.13):
-each template's ZIP (final source, bundled assets, design-system PDF, prompts, assistant replies,
-iteration images and the original recordings), each design-system PDF, and the full
+each template's ZIP (final source, bundled assets, design-system.json, prompts, assistant replies,
+iteration images and the original recordings; no PDF since 2026-11-15), each design-system PDF as its own file, and the full
 design-system book (`Arclayer-19-Templates-Design-Systems.pdf`). `DOWNLOADS-SHA256.txt` lists the ZIP checksums;
 `catalog.json` holds versions and source commits.
 
